@@ -49,7 +49,7 @@ używających biblioteki luv.
 
 %package devel
 Summary:	OCaml binding to libuv - development part
-Summary(pl.UTF-8):	Wiązania OCamla do libuv - cześć programistyczna
+Summary(pl.UTF-8):	Wiązania OCamla do libuv - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
